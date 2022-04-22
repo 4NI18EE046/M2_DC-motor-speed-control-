@@ -1,4 +1,4 @@
-# Test_plan And Output
+# Test_Plan And Output:
 | Sl.No |			Task				| Pass/Fail |
 |:-----:|		   :---------:			| :-------: |
 |   1   |		HIGH LEVEL SENSOR					|   PASS	|
