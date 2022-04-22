@@ -1,1 +1,1 @@
-
+A simple electrical circuit is made to control the speed of DC motor using LDR(Light Dependent Resistor).LDR whose resistance is inversely proportional to the intensity of light is often used as a sensor in electronic projects that involve the use of light. Light Dependent Resistor and AVR microcontroller ATmega328 features such as Analog to Digital Conversion are used to measure the light intensity. Also Dual H-Bridge Motor Driver Module-L298N is used in controlling motor speed and direction.
